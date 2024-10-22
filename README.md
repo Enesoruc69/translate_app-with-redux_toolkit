@@ -19,5 +19,5 @@
 - **Tailwind CSS**: Utility-first CSS framework for responsive and modern design.
 - **RapidAPI**: Used for fetching language translation data.
 
-![GIF](translateapp.gif)# translate_app-with-redux_toolkit
-# translate_app-with-redux_toolkit
+![GIF](translateapp.gif)# 
+
